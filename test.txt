@@ -1,1 +1,1 @@
-print("i like doing some code but not always all the code")
+print("lucky bastard aaahhhhh")
