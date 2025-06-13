@@ -1,1 +1,1 @@
-print("Nitro x kit")
+print("i like doing some code but not always all the code")
