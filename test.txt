@@ -1,1 +1,2 @@
-print("shiiiiii it works")
+print("----------NITRO X V2----------")
+print("--------Working Module--------")
